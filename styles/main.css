@@ -1,0 +1,17 @@
+/*------------------Globals---------------*/
+body {
+    padding: 0;
+    margin: 0;
+}
+
+[data-bs-theme=dark] {
+    --bs-body-bg: #348243;
+}
+
+[data-bs-theme=light] {
+    --bs-body-bg: #e1f6c5;
+}
+
+.lead{
+    font-size: 25px;
+}
