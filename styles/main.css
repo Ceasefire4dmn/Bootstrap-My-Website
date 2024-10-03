@@ -16,3 +16,11 @@ body {
 .lead{
     font-size: 25px;
 }
+
+.list-nav{
+    z-index: 0;
+}
+
+.navbar-toggler{
+    z-index: 1;
+}
